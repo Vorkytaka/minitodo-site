@@ -10,7 +10,7 @@ export default function Layout({ children }) {
       </main>
       <footer className='py-4 w-screen'>
         <div className='max-w-xl mx-auto px-4'>
-          <p className='text-right font-thin'>&copy; 2022 miniTeam</p>
+          <p className='text-right font-thin'>&copy; 2023 miniTeam</p>
         </div>
       </footer>
     </div>
