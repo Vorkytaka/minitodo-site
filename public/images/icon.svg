@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 476 476" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><rect id="Монтажная-область1" serif:id="Монтажная область1" x="0" y="0" width="475.542" height="475.542" style="fill:none;"/><g id="Монтажная-область11" serif:id="Монтажная область1"><g><path d="M73.846,147.761l-73.846,42.635l145.885,252.681l98.501,0.068l-170.54,-295.384Z" style="fill:#ff9800;"/><path d="M475.542,42.635l-73.846,-42.635l-255.811,443.077l98.422,0.068l231.235,-400.51Z" style="fill:#03a9f4;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 28 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Logo" transform="matrix(6.89866,0,0,6.72494,-386.325,-80.6993)">
+        <rect x="56" y="12" width="4" height="4" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="56" y="12" width="4" height="4"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="Orange-line" serif:id="Orange line" transform="matrix(0.128617,0,0,0.13194,55.4545,12.7113)">
+                <path d="M6.6,10.5L15,22.5C20.21,12.895 26.146,4.305 33,-3" style="fill:none;stroke:rgb(255,152,0);stroke-width:4.67px;"/>
+            </g>
+            <g id="Mask" transform="matrix(0.128617,0,0,0.13194,54.1847,11.425)">
+                <path d="M40,20.8C40,14.839 35.161,10 29.2,10L20.8,10C14.839,10 10,14.839 10,20.8L10,29.2C10,35.161 14.839,40 20.8,40L29.2,40C35.161,40 40,35.161 40,29.2L40,20.8Z" style="fill:none;"/>
+                <clipPath id="_clip2">
+                    <path d="M40,20.8C40,14.839 35.161,10 29.2,10L20.8,10C14.839,10 10,14.839 10,20.8L10,29.2C10,35.161 14.839,40 20.8,40L29.2,40C35.161,40 40,35.161 40,29.2L40,20.8Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <g id="Blue-line" serif:id="Blue line" transform="matrix(1,0,0,1,9.87291,9.74968)">
+                        <path d="M6.6,10.5L15,22.5C20.21,12.895 26.146,4.305 33,-3" style="fill:none;stroke:rgb(3,169,244);stroke-width:4.67px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
